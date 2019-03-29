@@ -19,10 +19,10 @@ foceird	fucertat	V;FIN;IND;PRS;ABS;3;PL
 fogleinn	foglaimm	V.MSDR
 fogleinn	foroeglantar	V;FIN;IND;PST;PRF;3;PL;LGSPEC1
 fogleinn	fogiguil	V;FIN;IND;FUT;3;SG;LGSPEC1
-fogleinn	forogeglaind	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+fogleinn	forogeglaind	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 fogleinn	fogleinn	V;FIN;IND;PRS;3;SG;LGSPEC1
 fogleinn	foglaind	V;FIN;IND;PRS;3;SG;LGSPEC2
-fogleinn	froeglaind	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+fogleinn	froeglaind	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 fogleinn	fogailsi	V;FIN;LGSPEC3
 fogleinn	foglenar	V;FIN;IND;PRS;PASS;SG;LGSPEC1
 
@@ -67,7 +67,7 @@ adclaid	adcladat	V;FIN;IND;PRS;3;PL;LGSPEC1
 
 foálgi	fuálgi	V;FIN;IND;PRS;2;SG;LGSPEC1
 foálgi	fálgud	V.MSDR
-foálgi	forálaig	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+foálgi	forálaig	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 foálgi	fálgi	V;FIN;IND;PRS;3;SG;LGSPEC2
 foálgi	foálaig	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 foálgi	foálagar	V;FIN;IND;PRS;PASS;SG;LGSPEC1
@@ -76,7 +76,7 @@ adcobra	adcobrai	V;FIN;IND;PRS;2;SG;LGSPEC1
 adcobra	accobar	V.MSDR
 adcobra	adcobrad	V;FIN;IND;PST;IPFV;3;SG;LGSPEC1
 adcobra	athcobrad	V;FIN;IND;PST;IPFV;3;SG;LGSPEC1
-adcobra	adrochabair	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adcobra	adrochabair	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 adcobra	adcobra	V;FIN;IND;PRS;3;SG;LGSPEC1
 adcobra	accobra	V;FIN;IND;PRS;3;SG;LGSPEC2
 adcobra	adcobair	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
@@ -85,7 +85,7 @@ adcobra	adcobrat	V;FIN;IND;PRS;3;PL;LGSPEC1
 adcomla	adcomaltar	V;FIN;SBJV;PRS;PASS;SG;LGSPEC1
 adcomla	adcomlasat	V;FIN;IND;PST;PFV;3;PL;LGSPEC1
 adcomla	accomol	V.MSDR
-adcomla	adrochomul	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adcomla	adrochomul	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 adcomla	adcomla	V;FIN;IND;PRS;3;SG;LGSPEC1
 adcomla	adcomlatar	V;FIN;IND;PRS;PASS;PL;LGSPEC1
 adcomla	adcomaill	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
@@ -95,7 +95,7 @@ adcomla	adcomlat	V;FIN;IND;PRS;3;PL;LGSPEC1
 adcosnai	adcosnaitis	V;FIN;IND;PST;IPFV;3;PL;LGSPEC1
 adcosnai	ascnam	V.MSDR
 adcosnai	adcosnae	V;FIN;SBJV;PRS;2;SG;LGSPEC1
-adcosnai	adruchoisséni	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adcosnai	adruchoisséni	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 adcosnai	ascnai	V;FIN;IND;PRS;3;SG;LGSPEC2
 adcosnai	adchosain	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 adcosnai	adcosnat	V;FIN;IND;PRS;3;PL;LGSPEC1
@@ -114,8 +114,8 @@ adcota	adcotad	V;FIN;IND;PST;IPFV;3;SG;LGSPEC1
 adcota	étatsat	V;FIN;IND;PST;PFV;3;PL;LGSPEC2
 adcota	étsat	V;FIN;IND;PST;PFV;3;PL;LGSPEC2
 adcota	état	V;FIN;IND;PRS;3;PL;LGSPEC2
-adcota	roét	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
-adcota	rohét	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adcota	roét	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
+adcota	rohét	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 adcota	adcotaarcota	V;FIN;IND;PRS;3;SG;LGSPEC1
 adcota	adcot	V;FIN;SBJV;PRS;1;SG;LGSPEC1
 adcota	adcotadsam	V;FIN;IND;PST;PFV;1;PL;LGSPEC1
@@ -150,7 +150,7 @@ adcí	acca	V;FIN;IND;PST;PRF;1;SG;LGSPEC2
 adcí	accatar	V;FIN;IND;PST;PFV;3;PL;LGSPEC2
 adcí	accat	V;FIN;IND;PRS;3;PL;LGSPEC2
 adcí	acat	V;FIN;IND;PRS;3;PL;LGSPEC2
-adcí	adcondairc	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adcí	adcondairc	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 adcí	adcí	V;FIN;IND;PRS;3;SG;LGSPEC1
 adcí	adcíi	V;FIN;IND;PRS;3;SG;LGSPEC1
 adcí	adcear	V;FIN;SBJV;PRS;1;SG;LGSPEC1
@@ -159,7 +159,7 @@ adcí	aicci	V;FIN;IND;PRS;3;SG;LGSPEC2
 adcí	adcíter	V;FIN;IND;PRS;PASS;PL;LGSPEC1
 adcí	accae	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
 adcí	acæ	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
-adcí	accae	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+adcí	accae	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 adcí	con-accae	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 adcí	adcítheradrodarcar	V;FIN;IND;PRS;PASS;SG;LGSPEC1
 adcí	adciat	V;FIN;IND;PRS;3;PL;LGSPEC1
@@ -174,7 +174,7 @@ adgládathar	adrogailser	V;FIN;IND;PST;PRF;2;SG;LGSPEC1
 adgládathar	adgegaldathar	V;FIN;IND;FUT;3;SG;LGSPEC1
 adgládathar	adgeglathar	V;FIN;IND;FUT;3;SG;LGSPEC1
 adgládathar	adgegaldar	V;FIN;IND;FUT;1;SG;LGSPEC1
-adgládathar	adroglastar	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adgládathar	adroglastar	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 adgládathar	adgládathar	V;FIN;IND;PRS;3;SG;LGSPEC1
 adgládathar	adgládadar	V;FIN;IND;PRS;3;SG;LGSPEC1
 adgládathar	a-tgláite	V;FIN;IMP;2;SG
@@ -185,8 +185,8 @@ adgládathar	árlaidid	V;FIN;SBJV;PRS;2;PL;LGSPEC2
 adgládathar	accaldastar	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
 adgládathar	aiclestar	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
 adgládathar	accaild	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
-adgládathar	árlastar	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
-adgládathar	árlasair	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+adgládathar	árlastar	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
+adgládathar	árlasair	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 adgládathar	adgládastar	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 adgládathar	acallta	V;FIN;LGSPEC3
 adgládathar	adgládatar	V;FIN;IND;PRS;3;PL;LGSPEC1
@@ -217,12 +217,12 @@ adrími	adrurmius	V;FIN;IND;PST;PFV;1;SG;LGSPEC1
 adrími	adruirmed	V;FIN;IND;PST;PRF;PASS;SG;LGSPEC1
 adrími	adruirmisset	V;FIN;IND;PST;PRF;3;PL;LGSPEC1
 adrími	adríme	V;FIN;SBJV;PRS;2;SG;LGSPEC1
-adrími	adruirim	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adrími	adruirim	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 adrími	adrími	V;FIN;IND;PRS;3;SG;LGSPEC1
 adrími	áirmi	V;FIN;IND;PRS;3;SG;LGSPEC2
 adrími	adrímter	V;FIN;IND;PRS;PASS;PL;LGSPEC1
 adrími	arraim	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
-adrími	arraim	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+adrími	arraim	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 adrími	adruirim	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 adrími	aírmthi	V;FIN;LGSPEC3
 adrími	adrímther	V;FIN;IND;PRS;PASS;SG;LGSPEC1
@@ -244,7 +244,7 @@ adágathar	adáichfedar	V;FIN;IND;FUT;3;SG;LGSPEC1
 adágathar	áigetar	V;FIN;IND;PRS;3;PL;LGSPEC2
 adágathar	ágetar	V;FIN;IND;PRS;3;PL;LGSPEC2
 adágathar	adáichfer	V;FIN;IND;FUT;1;SG;LGSPEC1
-adágathar	adráigestar	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+adágathar	adráigestar	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 adágathar	adágathar	V;FIN;IND;PRS;3;SG;LGSPEC1
 adágathar	adágadar	V;FIN;IND;PRS;3;SG;LGSPEC1
 adágathar	adáigethar	V;FIN;IND;PRS;3;SG;LGSPEC1
@@ -257,7 +257,7 @@ adágathar	ágether	V;FIN;IND;PRS;3;SG;LGSPEC2
 adágathar	ágastar	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
 adágathar	áigestar	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
 adágathar	áig	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
-adágathar	ráigestar	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+adágathar	ráigestar	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 adágathar	adágastar	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 adágathar	adáigestar	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 adágathar	adáig	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
@@ -553,7 +553,7 @@ rofinnadar	finnaid	V;FIN;IMP;2;PL
 rofinnadar	rofestar	V;FIN;IND;FUT;3;SG;LGSPEC1
 rofinnadar	finnatar	V;FIN;IND;PRS;3;PL;LGSPEC2
 rofinnadar	rofessur	V;FIN;IND;FUT;1;SG;LGSPEC1
-rofinnadar	rofitir	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+rofinnadar	rofitir	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 rofinnadar	fessainn	V;FIN;COND;1;SG;LGSPEC2
 rofinnadar	rofinnadar	V;FIN;IND;PRS;3;SG;LGSPEC1
 rofinnadar	rofessaid	V;FIN;IND;FUT;2;PL;LGSPEC1
@@ -564,7 +564,7 @@ rofinnadar	rofinnatar	V;FIN;IND;PRS;PASS;PL;LGSPEC1
 rofinnadar	fessaid	V;FIN;SBJV;PRS;2;PL;LGSPEC2
 rofinnadar	finnad	V;FIN;IMP;3;SG
 rofinnadar	fess	V;FIN;IND;PST;PRF;PASS;SG;LGSPEC2
-rofinnadar	fitir	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+rofinnadar	fitir	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 rofinnadar	fissi	V;FIN;LGSPEC3
 rofinnadar	festar	V;FIN;IND;FUT;3;SG;LGSPEC2
 rofinnadar	rofetar	V;FIN;IND;PST;PRF;1;SG;LGSPEC1
@@ -609,8 +609,8 @@ asbeir	asbéra	V;FIN;IND;FUT;3;SG;LGSPEC1
 asbeir	asbér	V;FIN;IND;FUT;1;SG;LGSPEC1
 asbeir	asbǽr	V;FIN;IND;FUT;1;SG;LGSPEC1
 asbeir	asbéer	V;FIN;IND;FUT;1;SG;LGSPEC1
-asbeir	asrubart	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
-asbeir	asrubbart	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+asbeir	asrubart	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
+asbeir	asrubbart	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 asbeir	asbeir	V;FIN;IND;PRS;3;SG;LGSPEC1
 asbeir	asberasrobair	V;FIN;IND;PRS;3;SG;LGSPEC1
 asbeir	asber	V;FIN;SBJV;PRS;1;SG;LGSPEC1
@@ -624,7 +624,7 @@ asbeir	epred	V;FIN;IMP;3;SG
 asbeir	érbrad	V;FIN;IND;PST;PRF;PASS;SG;LGSPEC2
 asbeir	érbrath	V;FIN;IND;PST;PRF;PASS;SG;LGSPEC2
 asbeir	epert	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
-asbeir	érbart	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+asbeir	érbart	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 asbeir	asbert	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 asbeir	abarta	V;FIN;LGSPEC3
 asbeir	asberar	V;FIN;IND;PRS;PASS;SG;LGSPEC1
@@ -785,7 +785,7 @@ conrig	conrigi	V;FIN;IND;PRS;2;SG;LGSPEC1
 conrig	cuimrech	V.MSDR
 conrig	conárracht	V;FIN;IND;PST;PRF;PASS;SG;LGSPEC1
 conrig	conréis	V;FIN;SBJV;PRS;2;SG;LGSPEC1
-conrig	conárraig	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+conrig	conárraig	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 conrig	conrig	V;FIN;IND;PRS;3;SG;LGSPEC1
 conrig	conrías	V;FIN;SBJV;PRS;1;SG;LGSPEC1
 conrig	cuimriged	V;FIN;IMP;3;SG
@@ -959,8 +959,8 @@ dobeir	dorataid	V;FIN;SBJV;PRS;PRF;2;PL;LGSPEC1
 
 dofuissim	tuistiu	V.MSDR
 dofuissim	dofuiséma	V;FIN;IND;FUT;3;SG;LGSPEC1
-dofuissim	doforsat	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
-dofuissim	dorósat	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+dofuissim	doforsat	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
+dofuissim	dorósat	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 dofuissim	dofuissim	V;FIN;IND;PRS;3;SG;LGSPEC1
 dofuissim	dofuissemar	V;FIN;IND;PRS;PASS;SG;LGSPEC1
 dofuissim	dofuismet	V;FIN;IND;PRS;3;PL;LGSPEC1
@@ -986,8 +986,8 @@ dogní	dénsat	V;FIN;IND;PST;PFV;3;PL;LGSPEC2
 dogní	dogéna	V;FIN;IND;FUT;3;SG;LGSPEC1
 dogní	dénatdernat	V;FIN;IND;PRS;3;PL;LGSPEC2
 dogní	dogén	V;FIN;IND;FUT;1;SG;LGSPEC1
-dogní	dorigni	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
-dogní	dorigéni	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+dogní	dorigni	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
+dogní	dorigéni	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 dogní	dogní	V;FIN;IND;PRS;3;SG;LGSPEC1
 dogní	dogénaid	V;FIN;IND;FUT;2;PL;LGSPEC1
 dogní	dénae	V;FIN;IMP;2;SG
@@ -998,7 +998,7 @@ dogní	dénaiddernaid	V;FIN;SBJV;PRS;2;PL;LGSPEC2
 dogní	dangníid dénad	V;FIN;IMP;3;SG
 dogní	dernad	V;FIN;IND;PST;PRF;PASS;SG;LGSPEC2
 dogní	digni	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
-dogní	deirgéni	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+dogní	deirgéni	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 dogní	dogénai	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 dogní	dénti	V;FIN;LGSPEC3
 dogní	dogníther	V;FIN;IND;PRS;PASS;SG;LGSPEC1
@@ -1015,7 +1015,7 @@ dogoa	doroígatar	V;FIN;IND;PST;PRF;3;PL;LGSPEC1
 dogoa	dogegat	V;FIN;IND;FUT;3;PL;LGSPEC1
 dogoa	togaid	V;FIN;IMP;2;PL
 dogoa	dogega	V;FIN;IND;FUT;3;SG;LGSPEC1
-dogoa	doroígu	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+dogoa	doroígu	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 dogoa	dogoa	V;FIN;IND;PRS;3;SG;LGSPEC1
 dogoa	dogó	V;FIN;IND;PRS;3;SG;LGSPEC1
 dogoa	tog	V;FIN;IMP;2;SG
@@ -1032,7 +1032,7 @@ doicc	doráncatar	V;FIN;IND;PST;PRF;3;PL;LGSPEC1
 doicc	doicfet	V;FIN;IND;FUT;3;PL;LGSPEC1
 doicc	táncatar	V;FIN;IND;PST;PFV;3;PL;LGSPEC2
 doicc	doicfa	V;FIN;IND;FUT;3;SG;LGSPEC1
-doicc	doránaic	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+doicc	doránaic	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 doicc	ticfainn	V;FIN;COND;1;SG;LGSPEC2
 doicc	doicc	V;FIN;IND;PRS;3;SG;LGSPEC1
 doicc	tair	V;FIN;IMP;2;SG
@@ -1070,7 +1070,7 @@ dotéit	dorega	V;FIN;IND;FUT;3;SG;LGSPEC1
 dotéit	doriga	V;FIN;IND;FUT;3;SG;LGSPEC1
 dotéit	táegat	V;FIN;IND;PRS;3;PL;LGSPEC2
 dotéit	doreg	V;FIN;IND;FUT;1;SG;LGSPEC1
-dotéit	dodechuid	V;FIN;IND;PST;PRF;3;SG:LGSPEC1
+dotéit	dodechuid	V;FIN;IND;PST;PRF;3;SG;LGSPEC1
 dotéit	tergainn	V;FIN;COND;1;SG;LGSPEC2
 dotéit	dotét	V;FIN;IND;PRS;3;SG;LGSPEC1
 dotéit	doregaid	V;FIN;IND;FUT;2;PL;LGSPEC1
@@ -1083,8 +1083,8 @@ dotéit	taísid	V;FIN;SBJV;PRS;2;PL;LGSPEC2
 dotéit	táet	V;FIN;IMP;3;SG
 dotéit	tuidches	V;FIN;IND;PST;PRF;PASS;SG;LGSPEC2
 dotéit	tulaid	V;FIN;IND;PST;PFV;3;SG;LGSPEC2
-dotéit	tuidchid	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
-dotéit	tudchaid	V;FIN;IND;PST;PRF;3;SG:LGSPEC2
+dotéit	tuidchid	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
+dotéit	tudchaid	V;FIN;IND;PST;PRF;3;SG;LGSPEC2
 dotéit	doluid	V;FIN;IND;PST;PFV;3;SG;LGSPEC1
 dotéit	tuidechta	V;FIN;LGSPEC3
 dotéit	dotíagar	V;FIN;IND;PRS;PASS;SG;LGSPEC1
